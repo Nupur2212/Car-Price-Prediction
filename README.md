@@ -81,10 +81,6 @@ XGBoost, an efficient and accurate gradient boosting implementation, was used. F
 
 After working on all three models, we determined the most suitable model by plotting scatter plots of actual vs. predicted prices. XGBoost emerged as the most suitable model for our dataset, producing the least error and the most accurate predicted prices.
 
-### 10) Manually Checking Predictions
-
-For manual verification of predictions, we followed steps to find actual prices, took exponentials of the price column, found residuals, and plotted them in tabular form.
-
 ## Conclusion
 
 In conclusion, based on our dataset, the XGBoost Regressor model is the most suitable for predicting car prices.
