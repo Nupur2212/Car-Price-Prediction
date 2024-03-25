@@ -1,8 +1,5 @@
 # Car-Price-Prediction
 
-**MADE BY:**  
-- Diksha Sharma  
-- Nupur Gandhi
 
 ## Overview
 
